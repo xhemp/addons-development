@@ -2,7 +2,7 @@
 
 ## 1.3.5
  - Update Python to 3.12
- - 
+   
 ## 1.3.4
  - Update Python to 3.11
 
